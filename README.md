@@ -1,1 +1,1 @@
-# Self-Implementation-Neural-Network
+# Numpy-Neural-Network-CAT/DOG-Classifier
